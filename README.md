@@ -26,7 +26,7 @@
 
 ## 💻 Projeto
 
-Desenvolvimento de um site de noticia utilizando o recurso de Progressive Web Application (pwa) e comsumindo uma api de noticia. trabalho feito no curso de reactJS na plataforma da <a href="https://digitalinnovation.one/">Digital Inovation One</a>
+Desenvolvimento de um site de noticia responsivo utilizando o recurso de Progressive Web Application (pwa) e comsumindo uma api de noticia. trabalho feito no curso de reactJS na plataforma da <a href="https://digitalinnovation.one/">Digital Inovation One</a>
 
 ## 🚀 Execução
 
