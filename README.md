@@ -1,50 +1,60 @@
-# This repository show an example of the a PWA to read news.
+<h1 align="center">
+  PWA-NEWS
+</h1>
 
-Live code to [Digital Innovation One](https://digitalinnovation.one/)
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-execução">Execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contribuindo">Contribuindo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
 
-Organized at **07/21/2020 at 8 p.m (Brazil)**
+<br>
 
-![PWA](./docs/finished.png)
+<p align="center">
+  <img alt="pwa-news" src="gitdocs/pwanews.png" width="100%">
+</p>
 
+## ✨ Tecnologias
 
-### Link to access the application: [PWA NEWS DIO](https://pwa-news-dio.netlify.app/)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
 
-### API used in this POC: [API](https://github.com/Tautorn/pwa-news-api)
+## 💻 Projeto
 
-### Slides used in this lecture:  [Slides PWA News](./docs/pwa.pdf)
+Desenvolvimento de um site de noticia utilizando o recurso de Progressive Web Application (pwa) e comsumindo uma api de noticia. trabalho feito no curso de reactJS na plataforma da <a href="https://digitalinnovation.one/">Digital Inovation One</a>
 
-### Important links:
+## 🚀 Execução
 
-- PWA created to monitoring Covid19 around the world
-[Covid19](https://covid19pwa.netlify.app/)
+Primeiro faça o clone do projeto
 
-- Who's use PWA [https://www.pwastats.com/](https://www.pwastats.com/)
+```sh
+git clone https://github.com/dmssantos/covid-19.git
+```
+agora instale as dependências
+```sh
+npm i
+```
+execute o projeto
+```sh
+npm run start
+```
+acesse a página no localhost:3000
 
-- Tool to turn your website in a PWA. Quickly and easily
-[https://www.pwabuilder.com/](https://www.pwabuilder.com/)
+## 🤝 Contribuindo
 
-- Site to create your PWA manifest
-[https://app-manifest.firebaseapp.com/](https://app-manifest.firebaseapp.com/)
+Obrigado por estar interessado em tornar este projeto melhor. Encorajo todos a ajudar a melhorar este projeto com novos recursos, correções de bugs ou melhorias de desempenho.
 
+## 📄 Licença
 
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-### References
+##
 
-
-* https://divante.com/pwabook/chapter/03-pwas-in-the-mobile-first-world.html#what-is-the-mobile-first-approach
-
-* https://divante.com/pwabook/chapter/02-the-history-of-pwas.html#the-history-of-progressive-web-apps
-
-* https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/
-
-* https://pt.wikipedia.org/wiki/Progressive_web_app
-
-* https://developers.google.com/web/fundamentals/primers/service-workers?hl=pt-br
-
-* https://developer.mozilla.org/pt-BR/docs/Web/API/Service_Worker_API/Using_Service_Workers
-
-* https://www.netlify.com/blog/2017/10/31/service-workers-explained/
-
-* https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0
-
-* https://medium.com/@vipulnema2610/understanding-service-worker-life-cycle-b6580aa4eb50
+<p align="center">
+  ©<a href="https://github.com/dmssantos"> David Santos</a>
+</p>
