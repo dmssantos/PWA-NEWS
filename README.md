@@ -14,7 +14,7 @@
 
 <p align="center">
   <img alt="pwa-news" src="gitdocs/pwanews.png" width="100%">
-  <img alt="pwa-news-mobile" src="gitdocs/pwanewsmobile.png" width="100%">
+  <img alt="pwa-news-mobile" src="gitdocs/pwanewsmobile.png" width="30%">
 </p>
 
 ## ✨ Tecnologias
